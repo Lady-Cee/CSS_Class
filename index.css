@@ -1,24 +1,14 @@
-h1{
-color: green;
+.logo_div{
+    padding: 16px 0;
+}
+main{
+    text-align: center;
+}
+.content_body{
+    margin: 80px 26vw;
 }
 
-.name{
-    color: yellow;
-}
-h1{
-color: orange;
-}
-
-h1{
-    color: aqua;
-}
-.location{
-    background-color: #f00;
-}
-p{
-    background-color:blue ;
-}
-#demo{
-    background-color:  chocolate;
-
+.header{
+    font-size: 30px;
+    margin: 40px 0 16px;
 }
